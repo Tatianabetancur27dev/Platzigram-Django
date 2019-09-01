@@ -1,0 +1,2 @@
+# Platzigram-Django
+Course Project
